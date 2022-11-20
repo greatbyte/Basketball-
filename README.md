@@ -1,4 +1,4 @@
 # Basketball-
-Basletball score
+Basketball score
 
 A basketball basic scoreboard.
